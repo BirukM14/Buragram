@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -40,3 +41,6 @@ npm run build
 ```shell
 npm start
 ```
+=======
+# Buragram
+>>>>>>> 6fe4fa9c58605e493f823495d9ca30fcc14c88b2
